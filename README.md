@@ -34,17 +34,17 @@ Las plataformas MOOC son una herramienta educativa ampliamente reconocida a nive
 
 **El dominio del aprendizaje en Línea: Coursera, edX y Udemy en el Centro del Escenario**
 
-*Coursera: Liderando la revolución de la educación en línea*
+*Coursera: Liderando la revolución de la educación en línea* [Web](https://www.coursera.org/)
+
 - Conforma la plataforma MOOC más grande del mundo, se estableció en enero de 2012 bajo el liderazgo de los profesores de Stanford, Andrew Ng y Daphne Koller. Su éxito ha sido fenomenal, y en marzo de 2021, dieron un giro significativo al iniciar su oferta pública inicial (NYSE: COUR). Con más de 118 millones de estudiantes y una recaudación de fondos de más de $500 millones, Coursera ha dejado una marca imborrable en el mercado de cursos en línea.
 - Ofrece una vasta selección de más de 10,000 cursos en colaboración con más de 300 socios académicos. Además de los cursos individuales, Coursera ha creado sus propias credenciales especializadas, que se han convertido en su sello distintivo. Con un catálogo que supera las 840 especializaciones, la plataforma no solo ofrece conocimientos, sino también un camino estructurado hacia el dominio de habilidades específicas. También se enorgullece de ofrecer 26 maestrías en línea en campos como informática, ciencia de datos, negocios y salud pública. Además, Coursera for Business brinda a las empresas acceso a cursos en línea para su desarrollo profesional.
 
-*edX: La Fusión de Prestigio y Diversidad Educativa*
+*edX: La Fusión de Prestigio y Diversidad Educativa* [Web](https://www.edx.org/)
 - Fundada en 2012 por la Universidad de Harvard y el MIT, edX se ha convertido en una de las plataformas MOOC más influyentes del mundo. Aunque comenzó como una organización sin fines de lucro, edX fue adquirida en 2021 por 2U en una transacción por valor de 800 millones de dólares. Con más de 46 millones de estudiantes y 160 instituciones asociadas, edX ha dejado una huella significativa en el mercado de la educación en línea.
 
 - La plataforma edX ofrece más de 4,000 cursos que abarcan una amplia gama de temas. Su enfoque se basa en proporcionar acceso a programas de certificación de alta calidad. Esto incluye 56 MicroMasters, 14 MicroBachelors (que brindan la oportunidad de obtener créditos académicos), 52 XSeries y 381 Certificados Profesionales. Además, edX ha incursionado en programas de grado en línea, ofreciendo opciones para aquellos que desean obtener una titulación completa a través de su plataforma.
 
-*Udemy: La academia para tu crecimiento profesional*
-
+*Udemy: La academia para tu crecimiento profesional* [Web](https://www.udemy.com/)
 - En 2007, mientras Eren Bali vivía en Turquía, su visión revolucionaria de un aula virtual activa lo llevó a crear un software que podría beneficiar a personas de todo el mundo. Impulsado por su convicción de que el conocimiento debería ser accesible para todos, Eren Bali se mudó al corazón de la innovación tecnológica, Silicon Valley, y fundó Udemy dos años después. Así nació una plataforma que transformaría la forma en que los adultos profesionales aprenden y crecen.
 
 - En los albores de 2010, Eren Bali, junto con Oktay Caglar y Gagan Biyani, lanzaron el sitio de Udemy. Aunque sus intentos iniciales de asegurar financiamiento de capital de riesgo fueron frustrados y enfrentaron rechazo 30 veces, estos obstáculos no detuvieron su determinación. Respondieron desde cero, desarrollaron y lanzaron el producto bajo el nombre de Udemy, que significa "La Academia para Ti". El éxito fue inmediato, con miles de instructores creando rápidamente alrededor de 2,000 cursos, y casi 10,000 usuarios registrándose en la plataforma en solo unos meses.
