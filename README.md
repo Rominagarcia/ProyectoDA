@@ -1,4 +1,4 @@
-![mooc](![Banner protecto data analyst](https://github.com/Rominagarcia/ProyectoDA/assets/96449858/f5ab89fa-a579-4024-a286-b84e29b32b24)
+(![Banner protecto data analyst](https://github.com/Rominagarcia/ProyectoDA/assets/96449858/f5ab89fa-a579-4024-a286-b84e29b32b24)
 
 # Proyecto Data Analyst
 
