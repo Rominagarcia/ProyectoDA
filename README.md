@@ -4,7 +4,51 @@
 
 ## Telecomunicaciones 
 
-> En este documento, presentaremos un panorama completo de la problemática, nuestros objetivos y la metodología que emplearemos para abordar este desafío. Como analista de datos senior con experiencia en la industria de las telecomunicaciones, nos complace compartir este informe con ustedes.
+> Enacom es un organismo autárquico y descentralizado que se encarga de regular las comunicaciones en Argentina. Su misión es garantizar el acceso equitativo de todos los argentinos a servicios como Internet, telefonía, radio, correo postal y televisión. Desde su creación en 2015, Enacom busca promover la inclusión digital, proteger a los usuarios y mejorar la calidad de los servicios de comunicación. Su visión es convertirse en un referente internacional en regulaciones y control de las comunicaciones, generando espacios de inclusión digital y defensa de los usuarios. Para lograrlo, Enacom establece lineamientos que abarcan la universalización de la inclusión digital, la protección de los usuarios, el aumento de la calidad de servicio, la promoción de la competencia, las inversiones en infraestructura digital y la transparencia en la gestión. En resumen, Enacom es el ente encargado de garantizar el acceso a servicios de comunicación de calidad para todos los argentinos, fomentando la inclusión digital y protegiendo los derechos de los usuarios.
+
+## Flujo de trabajo 
+
+- *Comprender los datos:*
+
+Examina detalladamente los datos disponibles, revisando la estructura, tipos de variables y calidad de los datos.
+Comprende la fuente de los datos y las limitaciones asociadas.
+
+- *Definir los objetivos:*
+
+Establece objetivos específicos para el análisis de datos, identificando las preguntas que deseas responder y los aspectos del sector de las telecomunicaciones que te gustaría explorar.
+Define las métricas y KPIs relevantes para medir el rendimiento y la eficacia de los servicios de comunicación.
+Análisis exploratorio de datos (EDA):
+
+- *Realizo un EDA:*
+
+Es una etapa crítica en cualquier proyecto de análisis de datos. Consiste en investigar y comprender la información en bruto mediante técnicas estadísticas y visuales. El EDA ayuda a revelar patrones, tendencias, distribuciones y posibles relaciones entre las variables presentes en los datos.
+
+1) Descripción de los datos
+Se examinan las características de las variables, como su tipo (numérico, categórico), la cantidad de valores faltantes, la distribución de los valores y los posibles outliers (valores atípicos). También se exploran las relaciones entre las variables.
+
+2) Visualización de los datos
+Se utilizan gráficos y visualizaciones adecuadas como gráficos de barras y gráficos circulares, para comprender la distribución y las relaciones entre las variables.
+
+3) Análisis de correlación
+Se examina la correlación entre las variables para identificar posibles relaciones lineales o no lineales. Esto puede ayudar a determinar qué variables pueden ser predominantes para el modelo y cómo interactúan entre sí.
+
+4) Identificación de valores atípicos
+Se buscan valores que se desvíen significativamente de la tendencia general de los datos. Pueden requerir una atención especial para comprender su origen y determinar si deben ser tratados o excluidos en el análisis.
+
+- Basándote en el análisis exploratorio, identifica 4 KPIs relevantes para la empresa de telecomunicaciones.
+Asegúrate de que los KPIs sean métricas específicas y mensurables que reflejen el rendimiento y la eficacia de los servicios de comunicación.
+Creación de un dashboard interactivo:
+
+- Utiliza herramientas como Tableau, Power BI o Python con bibliotecas como Plotly o Dash para crear un dashboard interactivo.
+Diseña el dashboard de manera clara y fácil de entender, permitiendo la exploración de datos a través de filtros interactivos.
+Análisis y conclusiones:
+
+- Realiza un análisis detallado de los resultados obtenidos en el EDA y a través del dashboard.
+Identifica patrones, tendencias, correlaciones y hallazgos relevantes.
+Extrae conclusiones y brinda recomendaciones basadas en el análisis para mejorar la calidad de los servicios, identificar oportunidades de crecimiento y ofrecer soluciones personalizadas.
+Repositorio de GitHub:
+
+- Como último paso, cree mi repositorio de Github para almacenar y compartir mi trabajo.
 
 ## *Hipótesis*
 
