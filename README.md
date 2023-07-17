@@ -15,13 +15,12 @@ Comprendo la fuente de los datos y las limitaciones asociadas.
 
 - *Defino mis objetivos:*
 
-Establezco objetivos específicos para el análisis de datos, identificando las preguntas que deseas responder y los aspectos del sector de las telecomunicaciones fundamental según mi perspectiva.
-Define las métricas y KPIs relevantes para medir el rendimiento y la eficacia de los servicios de comunicación.
-Análisis exploratorio de datos (EDA):
+Establezco objetivos específicos para el análisis de datos, identifico las preguntas que deseas responder y los aspectos del sector de las telecomunicaciones fundamental según mi perspectiva.
+Defino las métricas y KPIs relevantes para medir el rendimiento y la eficacia de los servicios de comunicación.
 
 - *Realizo un EDA:*
 
-Investigo y comprendo la información en bruto mediante técnicas estadísticas y visuales. El EDA ayuda a revelar patrones, tendencias, distribuciones y posibles relaciones entre las variables presentes en los datos.
+Investigo y comprendo la información mediante técnicas estadísticas y visuales. Revelo patrones, tendencias, distribuciones y posibles relaciones entre las variables presentes en los datos.
 
 ### 1) Descripción de los datos
 Se examinan las características de las variables, como su tipo (numérico, categórico), la cantidad de valores faltantes, la distribución de los valores y los posibles outliers (valores atípicos). También se exploran las relaciones entre las variables.
