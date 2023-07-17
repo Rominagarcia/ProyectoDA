@@ -123,3 +123,10 @@ En el presente, la libertad y la flexibilidad son requisitos destacados al busca
 
 > Vivir bien es posible, trabajar en algo que nos apasione también lo es. Y, lo que es aún más valioso, trabajar con base en la flexibilidad y la colaboración. Enacom, como parte de nuestro proyecto, busca promover estas cualidades en la industria de las telecomunicaciones, fomentando un entorno laboral que brinde oportunidades y beneficios tanto a las empresas como a los individuos.
 
+## Implementación/Uso
+Link donde se puede acceder a la presentación de Canva >> Api. ()
+Link donde se puede acceder al dashboard interactivo >> Dashboard. ()
+Link donde se puede acceder a la Web >> Streamlit. ()
+
+Bibliografía
+Consignas del Proyecto >> Archivo. ()
