@@ -22,16 +22,16 @@ Defino las métricas y KPIs relevantes para medir el rendimiento y la eficacia d
 
 Investigo y comprendo la información mediante técnicas estadísticas y visuales. Revelo patrones, tendencias, distribuciones y posibles relaciones entre las variables presentes en los datos.
 
-### 1) Descripción de los datos
+### 1. Descripción de los datos
 Se examinan las características de las variables, como su tipo (numérico, categórico), la cantidad de valores faltantes, la distribución de los valores y los posibles outliers (valores atípicos). También se exploran las relaciones entre las variables.
 
-### 2) Visualización de los datos
+### 2. Visualización de los datos
 Se utilizan gráficos y visualizaciones adecuadas como gráficos de barras y gráficos circulares, para comprender la distribución y las relaciones entre las variables.
 
-### 3) Análisis de correlación
+### 3. Análisis de correlación
 Se examina la correlación entre las variables para identificar posibles relaciones lineales o no lineales. Esto puede ayudar a determinar qué variables pueden ser predominantes para el modelo y cómo interactúan entre sí.
 
-### 4) Identificación de valores atípicos
+### 4. Identificación de valores atípicos
 Se buscan valores que se desvíen significativamente de la tendencia general de los datos. Pueden requerir una atención especial para comprender su origen y determinar si deben ser tratados o excluidos en el análisis.
 
 - Identifico 4 KPIs relevantes para la empresa de telecomunicaciones.
