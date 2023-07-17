@@ -1,54 +1,59 @@
-![mooc](https://github.com/Rominagarcia/ProyectoDA/assets/96449858/7d650dcd-cdcd-4f4a-8c6f-5d25c38b3ab4)
+![mooc](![Banner protecto data analyst](https://github.com/Rominagarcia/ProyectoDA/assets/96449858/f5ab89fa-a579-4024-a286-b84e29b32b24)
 
-# ProyectoDA
+# Proyecto Data Analyst
 
-# MOOCS # 
+## Telecomunicaciones 
 
-- Los Cursos en línea masivos y abiertosson una modalidad innovadora y altamente profesionalizada de educación en línea que ha ganado popularidad a nivel mundial. Diseñados para un número ilimitado de participantes, estos cursos se imparten a través de plataformas en línea, siguiendo los principios de educación abierta y masiva.
+> En este documento, presentaremos un panorama completo de la problemática, nuestros objetivos y la metodología que emplearemos para abordar este desafío. Como analista de datos senior con experiencia en la industria de las telecomunicaciones, nos complace compartir este informe con ustedes.
 
-- Caracterizados por su enfoque accesible y flexible, ofrecen una amplia variedad de contenidos académicos de alta calidad, cubriendo diversos campos de conocimiento y disciplinas. A través de recursos digitales interactivos, como videos, lecturas, cuestionarios y foros de discusión, los participantes pueden acceder al material educativo desde cualquier lugar y en cualquier momento que les resulte conveniente.
+*Hipótesis*
+Nuestra hipótesis se basa en la evidencia de una creciente necesidad y demanda de acceso a Internet en Argentina. A pesar de los avances realizados en los últimos años, un porcentaje significativo de la población aún carece de conexión a la red. Esta brecha digital representa una problemática que requiere soluciones efectivas para mejorar el alcance y la calidad de los servicios de telecomunicación en el país.
 
-- Se distinguen por su envergadura, permitiendo que un gran número de estudiantes, a menudo de distintos países y culturas, se inscriban en un mismo curso. Esta dinámica fomenta la interacción y el intercambio de conocimientos entre los participantes, brindando oportunidades valiosas para establecer redes y colaboraciones profesionales a nivel global.
+*Presentación del problema*
+En la actualidad, el acceso a Internet se ha vuelto una necesidad básica en el ámbito laboral, educativo y social. Sin embargo, a pesar de los avances en la penetración de Internet en Argentina, aún existe una proporción considerable de la población que no cuenta con acceso a este servicio esencial.
 
-- Al ser cursos "abiertos", eliminan las barreras tradicionales de acceso a la educación, brindando la posibilidad de aprender a aquellos que, por diversas razones, no pueden acceder a una formación presencial o formal. Esta apertura democratiza el aprendizaje, fomentando la inclusión y el desarrollo personal y profesional de personas de todas las procedencias y niveles educativos.
+La falta de acceso a Internet impacta negativamente en el desarrollo económico y social de las personas y comunidades desconectadas. Además, esta problemática se agrava debido a la creciente dependencia de la sociedad en los servicios digitales, especialmente tras la pandemia.
 
-# Principales características #
-- Acceso masivo
-- Acceso libre y fácil
-- Gratuitos:
-- Aprendizaje autónomo
-- Ambiente en línea
-- Interacción entre estudiantes
-- Mediación tecnológica
+## *Objetivos*
+Objetivo general: Proponer un plan de mejora que contribuya a reducir la brecha digital en Argentina y aumentar el acceso a servicios de Internet para una mayor cantidad de personas, garantizando así el derecho a la comunicación y la información en todo el país.
 
-**Plataformas de cursos Mooc**
-Las plataformas MOOC son una herramienta educativa ampliamente reconocida a nivel mundial, y en Latinoamérica destacan tres plataformas líderes: Coursera, edX y Udacity. A continuación, se resalta la relevancia e innovación de estas plataformas en el ámbito educativo:
+### *Objetivos específicos:*
 
-*Coursera:* Esta plataforma estadounidense se destaca por su amplia gama de cursos MOOC ofrecidos en colaboración con prestigiosas instituciones académicas y expertos en diversos campos. Coursera se distingue por su enfoque en la accesibilidad, calidad y relevancia de los cursos. Además, proporciona certificados verificados que validan el aprendizaje obtenido, lo cual agrega valor a la formación de los estudiantes.
+Analizar y cuantificar la cantidad de personas que tienen televisión pero no disponen de acceso a Internet en Argentina. Mediante este análisis, identificaremos la magnitud de la brecha digital existente en la población.
 
-*edX:* Fundada por universidades líderes como Harvard y el MIT, edX ha demostrado su compromiso con la excelencia académica y la innovación en la educación en línea. Esta plataforma ofrece una amplia variedad de cursos MOOC en colaboración con instituciones académicas de renombre en todo el mundo. edX se caracteriza por su enfoque en el aprendizaje activo, el acceso a contenido de alta calidad y la posibilidad de obtener certificados reconocidos por empleadores y universidades.
+Elaborar un mapa de calor que muestre la cobertura y alcance de Internet en cada una de las provincias de Argentina. Esta representación visual permitirá identificar áreas geográficas con mayor y menor acceso a Internet, proporcionando información relevante para enfocar las soluciones de manera más efectiva.
 
-*Udacity:* Con un enfoque más orientado a la adquisición de habilidades tecnológicas y el aprendizaje profesional, Udacity se ha posicionado como una plataforma MOOC líder en el campo de la educación tecnológica. Colabora estrechamente con empresas de renombre y expertos en la industria para ofrecer cursos y programas especializados en campos como inteligencia artificial, programación y ciencia de datos. Udacity destaca por su enfoque práctico y la posibilidad de obtener certificaciones enfocadas en habilidades demandadas en el mercado laboral actual.
+Realizar un análisis exhaustivo de las bases de datos de denuncias y reclamos relacionados con servicios de Internet, telefonía fija, facturación y problemas técnicos. A través de este análisis, identificaremos patrones y tendencias en las problemáticas más recurrentes, lo que nos ayudará a definir estrategias para mejorar la calidad de los servicios y reducir las insatisfacciones de los usuarios.
 
-**Competidores en el mercado**
+### Metodología
+Como analistas de datos senior, emplearemos técnicas y herramientas avanzadas de análisis de datos para abordar esta problemática de manera efectiva. Recopilaremos y procesaremos información relevante de diversas fuentes, incluyendo bases de datos de acceso público y registros de denuncias y reclamos.
 
-**El dominio del aprendizaje en Línea: Coursera, edX y Udemy en el Centro del Escenario**
+Nuestro enfoque se basará en un análisis temporal trimestral que abarcará desde el año 2023 hasta el año 2014. Esto nos permitirá evaluar la evolución del acceso a Internet a lo largo del tiempo y comprender cómo eventos significativos, como la pandemia, han impactado en esta problemática.
 
-*Coursera: Liderando la revolución de la educación en línea* [Web](https://www.coursera.org/)
+### Relevancia y Aplicabilidad
+Este proyecto no solo tiene implicaciones para Argentina, sino que también puede brindar perspectivas y soluciones aplicables a otros países que enfrenten desafíos similares en el acceso a servicios de telecomunicaciones. Nuestro objetivo final es cerrar la brecha digital y garantizar que el acceso a Internet sea una realidad para todos, promoviendo el desarrollo social y económico en Argentina y más allá.
 
-- Conforma la plataforma MOOC más grande del mundo, se estableció en enero de 2012 bajo el liderazgo de los profesores de Stanford, Andrew Ng y Daphne Koller. Su éxito ha sido fenomenal, y en marzo de 2021, dieron un giro significativo al iniciar su oferta pública inicial (NYSE: COUR). Con más de 118 millones de estudiantes y una recaudación de fondos de más de $500 millones, Coursera ha dejado una marca imborrable en el mercado de cursos en línea.
-- Ofrece una vasta selección de más de 10,000 cursos en colaboración con más de 300 socios académicos. Además de los cursos individuales, Coursera ha creado sus propias credenciales especializadas, que se han convertido en su sello distintivo. Con un catálogo que supera las 840 especializaciones, la plataforma no solo ofrece conocimientos, sino también un camino estructurado hacia el dominio de habilidades específicas. También se enorgullece de ofrecer 26 maestrías en línea en campos como informática, ciencia de datos, negocios y salud pública. Además, Coursera for Business brinda a las empresas acceso a cursos en línea para su desarrollo profesional.
+Estamos emocionados de embarcarnos en este proyecto y esperamos que los resultados de nuestro análisis de datos sirvan como base para la toma de decisiones informadas. Juntos, podemos enfrentar los desafíos de la brecha digital y construir un futuro inclusivo y conectado para todos.
 
-*edX: La Fusión de Prestigio y Diversidad Educativa* [Web](https://www.edx.org/)
-- Fundada en 2012 por la Universidad de Harvard y el MIT, edX se ha convertido en una de las plataformas MOOC más influyentes del mundo. Aunque comenzó como una organización sin fines de lucro, edX fue adquirida en 2021 por 2U en una transacción por valor de 800 millones de dólares. Con más de 46 millones de estudiantes y 160 instituciones asociadas, edX ha dejado una huella significativa en el mercado de la educación en línea.
+## KPIS
 
-- La plataforma edX ofrece más de 4,000 cursos que abarcan una amplia gama de temas. Su enfoque se basa en proporcionar acceso a programas de certificación de alta calidad. Esto incluye 56 MicroMasters, 14 MicroBachelors (que brindan la oportunidad de obtener créditos académicos), 52 XSeries y 381 Certificados Profesionales. Además, edX ha incursionado en programas de grado en línea, ofreciendo opciones para aquellos que desean obtener una titulación completa a través de su plataforma.
+*1. KPI de Penetración de Internet*
 
-*Udemy: La academia para tu crecimiento profesional* [Web](https://www.udemy.com/)
-- En 2007, mientras Eren Bali vivía en Turquía, su visión revolucionaria de un aula virtual activa lo llevó a crear un software que podría beneficiar a personas de todo el mundo. Impulsado por su convicción de que el conocimiento debería ser accesible para todos, Eren Bali se mudó al corazón de la innovación tecnológica, Silicon Valley, y fundó Udemy dos años después. Así nació una plataforma que transformaría la forma en que los adultos profesionales aprenden y crecen.
+- KPI clave para medir el alcance y la adopción de Internet en una población.
+- Mide el porcentaje de la población que tiene acceso y utiliza Internet.
+- Permite identificar áreas de mejora y cerrar la brecha digital.
+- Evalúa el progreso a lo largo del tiempo y compara con otros países.
 
-- En los albores de 2010, Eren Bali, junto con Oktay Caglar y Gagan Biyani, lanzaron el sitio de Udemy. Aunque sus intentos iniciales de asegurar financiamiento de capital de riesgo fueron frustrados y enfrentaron rechazo 30 veces, estos obstáculos no detuvieron su determinación. Respondieron desde cero, desarrollaron y lanzaron el producto bajo el nombre de Udemy, que significa "La Academia para Ti". El éxito fue inmediato, con miles de instructores creando rápidamente alrededor de 2,000 cursos, y casi 10,000 usuarios registrándose en la plataforma en solo unos meses.
+*2. KPI de Banda Ancha*
 
-- Udemy se distingue de los programas académicos MOOC tradicionales, ya que se basa en el contenido creado por expertos en línea para generar ganancias. Su enfoque está en capacitar a los usuarios para que creen sus propios cursos, los promocionen y obtengan ingresos a través de las tarifas de inscripción de los estudiantes. Con una amplia gama de herramientas y recursos, Udemy empodera a individuos talentosos de diversas áreas para compartir su experiencia y conocimientos con la comunidad global.
+- Evalúa el acceso y la calidad de las conexiones de alta velocidad en Internet.
+- Mide el porcentaje de usuarios con acceso a conexiones de banda ancha.
+- Importante para garantizar experiencias rápidas y confiables en línea.
+- Identifica áreas de mejora en infraestructura y ampliación de cobertura.
 
-- Se ha convertido en una plataforma líder para aquellos que desean adquirir nuevas habilidades, expandir sus conocimientos y avanzar en sus carreras. Dirigida a adultos profesionales, ofrece una variedad de cursos en temas que van desde habilidades técnicas y empresariales hasta arte, diseño y desarrollo personal. Con su enfoque innovador y su modelo de negocio único, Udemy ha revolucionado el aprendizaje en línea y ha brindado a millones de personas la oportunidad de crecer y prosperar en el mundo profesional.
+*3. KPI de Banda Angosta*
+
+- Mide el porcentaje de usuarios con acceso a conexiones de baja velocidad.
+- Considera usuarios con limitaciones de infraestructura o recursos económicos.
+- Identifica áreas que requieren mejorar infraestructura y ampliar la cobertura.
+- Permite asegurar que todos los usuarios se beneficien, aunque a velocidades reducidas.
