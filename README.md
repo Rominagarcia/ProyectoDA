@@ -15,7 +15,7 @@ Comprendo la fuente de los datos y las limitaciones asociadas.
 
 - *Defino mis objetivos:*
 
-Extablezco objetivos específicos para el análisis de datos, identificando las preguntas que deseas responder y los aspectos del sector de las telecomunicaciones fundamental según mi perspectiva.
+Establezco objetivos específicos para el análisis de datos, identificando las preguntas que deseas responder y los aspectos del sector de las telecomunicaciones fundamental según mi perspectiva.
 Define las métricas y KPIs relevantes para medir el rendimiento y la eficacia de los servicios de comunicación.
 Análisis exploratorio de datos (EDA):
 
