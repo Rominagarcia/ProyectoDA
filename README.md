@@ -8,45 +8,42 @@
 
 ## Flujo de trabajo 
 
-- *Comprender los datos:*
+- *Comprendo los datos:*
 
-Examina detalladamente los datos disponibles, revisando la estructura, tipos de variables y calidad de los datos.
-Comprende la fuente de los datos y las limitaciones asociadas.
+En primer lugar, analizo detalladamente los datos disponibles, revisando la estructura, tipos de variables y calidad de los datos.
+Comprendo la fuente de los datos y las limitaciones asociadas.
 
-- *Definir los objetivos:*
+- *Defino mis objetivos:*
 
-Establece objetivos específicos para el análisis de datos, identificando las preguntas que deseas responder y los aspectos del sector de las telecomunicaciones que te gustaría explorar.
+Extablezco objetivos específicos para el análisis de datos, identificando las preguntas que deseas responder y los aspectos del sector de las telecomunicaciones fundamental según mi perspectiva.
 Define las métricas y KPIs relevantes para medir el rendimiento y la eficacia de los servicios de comunicación.
 Análisis exploratorio de datos (EDA):
 
 - *Realizo un EDA:*
 
-Es una etapa crítica en cualquier proyecto de análisis de datos. Consiste en investigar y comprender la información en bruto mediante técnicas estadísticas y visuales. El EDA ayuda a revelar patrones, tendencias, distribuciones y posibles relaciones entre las variables presentes en los datos.
+Investigo y comprendo la información en bruto mediante técnicas estadísticas y visuales. El EDA ayuda a revelar patrones, tendencias, distribuciones y posibles relaciones entre las variables presentes en los datos.
 
-1) Descripción de los datos
+### 1) Descripción de los datos
 Se examinan las características de las variables, como su tipo (numérico, categórico), la cantidad de valores faltantes, la distribución de los valores y los posibles outliers (valores atípicos). También se exploran las relaciones entre las variables.
 
-2) Visualización de los datos
+### 2) Visualización de los datos
 Se utilizan gráficos y visualizaciones adecuadas como gráficos de barras y gráficos circulares, para comprender la distribución y las relaciones entre las variables.
 
-3) Análisis de correlación
+### 3) Análisis de correlación
 Se examina la correlación entre las variables para identificar posibles relaciones lineales o no lineales. Esto puede ayudar a determinar qué variables pueden ser predominantes para el modelo y cómo interactúan entre sí.
 
-4) Identificación de valores atípicos
+### 4) Identificación de valores atípicos
 Se buscan valores que se desvíen significativamente de la tendencia general de los datos. Pueden requerir una atención especial para comprender su origen y determinar si deben ser tratados o excluidos en el análisis.
 
-- Basándote en el análisis exploratorio, identifica 4 KPIs relevantes para la empresa de telecomunicaciones.
-Asegúrate de que los KPIs sean métricas específicas y mensurables que reflejen el rendimiento y la eficacia de los servicios de comunicación.
-Creación de un dashboard interactivo:
+- Identifico 4 KPIs relevantes para la empresa de telecomunicaciones.
 
-- Utiliza herramientas como Tableau, Power BI o Python con bibliotecas como Plotly o Dash para crear un dashboard interactivo.
-Diseña el dashboard de manera clara y fácil de entender, permitiendo la exploración de datos a través de filtros interactivos.
-Análisis y conclusiones:
+- Creo de un dashboard interactivo
 
-- Realiza un análisis detallado de los resultados obtenidos en el EDA y a través del dashboard.
-Identifica patrones, tendencias, correlaciones y hallazgos relevantes.
-Extrae conclusiones y brinda recomendaciones basadas en el análisis para mejorar la calidad de los servicios, identificar oportunidades de crecimiento y ofrecer soluciones personalizadas.
-Repositorio de GitHub:
+- Análisis y conclusiones:
+
+Realizo un análisis detallado de los resultados obtenidos en el EDA y a través del dashboard.
+Identifico patrones, tendencias, correlaciones y hallazgos relevantes.
+Extraigo conclusiones y brindo recomendaciones basadas en el análisis para mejorar la calidad de los servicios, identificar oportunidades de crecimiento y ofrecer soluciones personalizadas.
 
 - Como último paso, cree mi repositorio de Github para almacenar y compartir mi trabajo.
 
