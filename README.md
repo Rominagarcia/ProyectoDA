@@ -57,15 +57,17 @@ La falta de acceso a Internet impacta negativamente en el desarrollo económico 
 
 ## *Objetivos*
   
-  Objetivo general: Proponer un plan de mejora que contribuya a reducir la brecha digital en Argentina y aumentar el acceso a servicios de Internet para una mayor cantidad de personas, garantizando así el derecho a la comunicación y la información en todo el país.
+### *General* 
 
-### *Objetivos específicos:*
+Proponer un plan de mejora que contribuya a reducir la brecha digital en Argentina y aumentar el acceso a servicios de Internet para una mayor cantidad de personas, garantizando así el derecho a la comunicación y la información en todo el país.
 
-  1) Analizar y cuantificar la cantidad de personas que tienen televisión pero no disponen de acceso a Internet en Argentina. Mediante este análisis, identificaremos la magnitud de la brecha digital existente en la población.
+### *Específicos:*
 
-  2) Elaborar un mapa de calor que muestre la cobertura y alcance de Internet en cada una de las provincias de Argentina. Esta representación visual permitirá identificar áreas geográficas con mayor y menor acceso a Internet, proporcionando información relevante para enfocar las soluciones de manera más efectiva.
+1) Analizar y cuantificar la cantidad de personas que tienen televisión pero no disponen de acceso a Internet en Argentina. Mediante este análisis, identificaremos la magnitud de la brecha digital existente en la población.
 
-  3) Realizar un análisis exhaustivo de las bases de datos de denuncias y reclamos relacionados con servicios de Internet, telefonía fija, facturación y problemas técnicos. A través de este análisis, identificaremos patrones y tendencias en las problemáticas más recurrentes, lo que nos ayudará a definir estrategias para mejorar la calidad de los servicios y reducir las insatisfacciones de los usuarios.
+2) Elaborar un mapa de calor que muestre la cobertura y alcance de Internet en cada una de las provincias de Argentina. Esta representación visual permitirá identificar áreas geográficas con mayor y menor acceso a Internet, proporcionando información relevante para enfocar las soluciones de manera más efectiva.
+
+3) Realizar un análisis exhaustivo de las bases de datos de denuncias y reclamos relacionados con servicios de Internet, telefonía fija, facturación y problemas técnicos. A través de este análisis, identificaremos patrones y tendencias en las problemáticas más recurrentes, lo que nos ayudará a definir estrategias para mejorar la calidad de los servicios y reducir las insatisfacciones de los usuarios.
 
 ### *Metodología*
 
