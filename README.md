@@ -72,3 +72,14 @@ Para calcularlo, necesitarás dos datos: el número de usuarios de Internet en l
    *Para calcular el KPI de Banda Angosta, también requeriremos dos datos: el número de usuarios con acceso a conexiones de banda angosta y el total de usuarios de Internet en la población. Dividimos el número de usuarios con acceso a conexiones de banda angosta entre el total de usuarios de Internet y multiplicamos el resultado por 100 para obtener el porcentaje.*
   
 > Fórmula: (Usuarios de Banda Angosta / Total de Usuarios de Internet) * 100 = KPI de Banda Angosta (%)
+
+### *Conclusiones*
+
+*Enacom, como entidad reguladora de las comunicaciones en Argentina, desempeña un papel fundamental en nuestro proyecto de análisis de datos para mejorar el acceso a Internet en el país. Nuestro objetivo ha sido garantizar que las personas tengan un buen acceso a Internet, independientemente de su ubicación geográfica.*
+
+En la actualidad, Internet se ha convertido en una necesidad básica más que un simple beneficio. No solo se utiliza para el entretenimiento, sino que se ha vuelto esencial para el aprendizaje y el trabajo. La pandemia ha acelerado este cambio, con un incremento notable en el trabajo remoto. Las empresas buscan reducir costos y mejorar la calidad de vida de sus empleados al permitirles trabajar desde casa. Esto ha liberado tiempo que solía dedicarse al desplazamiento y ha permitido un mayor disfrute personal, lo que se traduce en una mejor calidad de vida.
+
+En el presente, la libertad y la flexibilidad son requisitos destacados al buscar un trabajo, especialmente para personas de mi generación (1996), como los millennials. Priorizamos la posibilidad de viajar y disfrutar de nuestro tiempo libre al máximo. Gracias al trabajo remoto, ahora es posible combinar una vida plena con una carrera apasionante.
+
+> Vivir bien es posible, trabajar en algo que nos apasione también lo es. Y, lo que es aún más valioso, trabajar con base en la flexibilidad y la colaboración. Enacom, como parte de nuestro proyecto, busca promover estas cualidades en la industria de las telecomunicaciones, fomentando un entorno laboral que brinde oportunidades y beneficios tanto a las empresas como a los individuos.
+
