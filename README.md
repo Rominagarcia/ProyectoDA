@@ -78,5 +78,3 @@ En el presente, la libertad y la flexibilidad son requisitos destacados al busca
 ## *Implementación/Uso*
 
 ## *Bibliografía*
-
-Consignas del Proyecto >> Archivo. ()
