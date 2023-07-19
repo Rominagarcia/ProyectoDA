@@ -74,7 +74,3 @@ En la actualidad, Internet se ha convertido en una necesidad básica más que un
 En el presente, la libertad y la flexibilidad son requisitos destacados al buscar un trabajo, especialmente para personas de mi generación, como los millennials. Priorizamos la posibilidad de viajar y disfrutar de nuestro tiempo libre al máximo. Gracias al trabajo remoto, ahora es posible combinar una vida plena con una carrera apasionante.
 
 > Vivir bien es posible, trabajar en algo que nos apasione también lo es. Y, lo que es aún más valioso, trabajar con base en la flexibilidad y la colaboración. Enacom, como parte de nuestro proyecto, busca promover estas cualidades en la industria de las telecomunicaciones, fomentando un entorno laboral que brinde oportunidades y beneficios tanto a las empresas como a los individuos.
-
-## *Implementación/Uso*
-
-## *Bibliografía*
